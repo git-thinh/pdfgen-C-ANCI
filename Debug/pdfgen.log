@@ -1,0 +1,6 @@
+﻿  pdfgen.c
+f:\tlvtool_pdf\pdfgen\pdfgen\pdfgen.c(1990): warning C4018: '<': signed/unsigned mismatch
+f:\tlvtool_pdf\pdfgen\pdfgen\pdfgen.c(1993): warning C4018: '<': signed/unsigned mismatch
+f:\tlvtool_pdf\pdfgen\pdfgen\pdfgen.c(1996): warning C4018: '<': signed/unsigned mismatch
+f:\tlvtool_pdf\pdfgen\pdfgen\pdfgen.c(1998): warning C4018: '>=': signed/unsigned mismatch
+  pdfgen.vcxproj -> F:\TLVTool_Pdf\pdfgen\Debug\pdfgen.exe
